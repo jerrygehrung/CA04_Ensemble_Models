@@ -1,11 +1,12 @@
 # Ensemble Models
 
 ## Introduction
+
 This project uses the following ensemble methods and their algorithms to predict income based on census data:
-> - Random Forest
-> - AdaBoost
-> - Gradient Boost
-> - XGB
+- Random Forest
+- AdaBoost
+- Gradient Boost
+- XGB
 
 ## Process
 1. Inspecting dataset
